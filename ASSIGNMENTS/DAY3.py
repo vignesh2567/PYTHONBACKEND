@@ -18,9 +18,11 @@ else:
 # NESTED IF ELSE
 
 spec1 = int(input("Enter your RAM size :"))
-spec2 = input("INTEL 5  OR AMD INTEL 7")
+
 
 if spec1 >= 16:
+
+    spec2 = input("INTEL 5  OR AMD INTEL 7")
     if spec2 == "INTEL 7":
         print("YOU CAN DOWNLOAD THE GAME")
     else:

@@ -1,0 +1,28 @@
+ANALYSIS:
+---------
+
+1)STATIC WEBPAGE:
+----------------
+        Static webpage is a simple webpage which does not perform any dynamic functions.
+	The content in the static webpage always remains the same until the developer changes it.
+	Can be built using simple HTML and CSS
+
+2)DYANMIC WEBPAGE:
+-----------------
+	It is interactive and user friendly website.
+	The content in the webpage may change automatically with the assist of user interaction and user data.
+	Requires programming languages like JAVA SCRIPT and database to create dynamic webpage.
+
+3)CLIENT SIDE SCRIPITING:
+-------------------------
+	Client side scripting means scripts run in browser.
+	Java script is majorly used for client side scripting.
+	Used for functions like form validation, animation, buttons, changing contents without reloading entire page.
+	Provides better user experience, reduce server load and  faster response
+
+4)SERVER SIDE SCRIPTING:
+------------------------
+	Server side scripting means script runs on the web server before the webpage is sent to the browser.
+	Requires backend languages like python, java or node js.
+	Performs tasks like database operations and user authentications.
+	Allows database connectivity and provides personalized data.
